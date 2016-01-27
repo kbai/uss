@@ -1,0 +1,4 @@
+submit1: Decisiontree min_samples_split = 50 wrong submission
+submit2: RandomForest n_estimator = 200 min_samples_split=10
+submit3: RandomForest n_estimator = 20000 max_feature="sqrt" min_samples_split=20
+submit4: RandomForset n_estimator = 20000 min_samples_split=5
